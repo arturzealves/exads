@@ -1,0 +1,14 @@
+{
+    "name": "arturzealves/exads-exercise4",
+    "description": "Exercise 4",
+    "license": "GPL-3.0-or-later",
+    "keywords": ["exads", "php", "test", "ab"],
+    "autoload": {
+        "psr-4": {
+            "ArturZeAlves\\": "src/"
+        }
+    },
+    "require": {
+        "exads/ab-test-data": "^1.0"
+    }
+}
